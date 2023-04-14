@@ -12,7 +12,7 @@ public class DateFunctioanlity2 {
 		
 
 
-		String result=d2.getFutureDate(22,"MM/dd/yyyy");
+		String result=d2.getFutureDate(23,"MM/dd/yyyy");
 
 
 
