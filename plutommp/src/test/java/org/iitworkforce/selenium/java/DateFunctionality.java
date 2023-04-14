@@ -6,7 +6,7 @@ public class DateFunctionality {
 	 
 	public static void main(String[] args) {
 		DateFunctionality d1 = new DateFunctionality();
-		String result = d1.getFutureDate(10);
+		String result = d1.getFutureDate(20);
 		System.out.println(result);
 		}
 	public String getFutureDate(int noofDays)
