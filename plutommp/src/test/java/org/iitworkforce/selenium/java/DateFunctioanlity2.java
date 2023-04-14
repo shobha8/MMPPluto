@@ -44,8 +44,8 @@ public String getFutureDate(int noofDays)
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		System.out.println(sdf.format(cal.getTime()));
 		
-		sdf = new SimpleDateFormat("dd/MMM/yyyy");
-		System.out.println(sdf.format(cal.getTime()));
+		//sdf = new SimpleDateFormat("dd/MMM/yyyy");
+		//System.out.println(sdf.format(cal.getTime()));
 		
 		return cal.getTime().toString();
 		
