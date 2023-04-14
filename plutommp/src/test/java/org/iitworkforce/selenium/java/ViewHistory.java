@@ -43,6 +43,7 @@ public class ViewHistory {
 		if(driver.findElement(By.xpath("//input[@value='Past Appointments']")).isDisplayed()) {
 			
 		         System.out.println("TestCase Passed");
+			  System.out.println("TestCase Passed again");
 	        }
 	      else
 	        {
