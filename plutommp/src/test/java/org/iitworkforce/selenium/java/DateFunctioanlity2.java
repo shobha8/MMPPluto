@@ -11,7 +11,9 @@ public class DateFunctioanlity2 {
 		//String result = d2.getFutureDate(10);
 		
 
+
 		String result=d2.getFutureDate(22,"MM/dd/yyyy");
+
 
 
 		System.out.println(result);
