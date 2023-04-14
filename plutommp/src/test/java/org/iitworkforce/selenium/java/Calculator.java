@@ -11,6 +11,7 @@ public class Calculator {
 		for(String name:names) {
 		if( store.add(name)==false) {
 			System.out.println("Duplicate Names :"+name);
+		System.out.println("Duplicate Names2 :"+name);
 		}
 	}
 	}
