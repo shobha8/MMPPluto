@@ -13,6 +13,7 @@ public class DateFunctioanlity2 {
 
 		String result=d2.getFutureDate(15,"MM/dd/yyyy");
 
+
 		System.out.println(result);
 		String dateArr[]=result.split("/");
 		System.out.println(dateArr[0]);
